@@ -1,0 +1,129 @@
+QListWidget[objectName="listWidget"]::item {
+    color: white;
+    border: 0px solid white;
+}
+
+QListWidget[objectName="listWidget"]::item:selected:active {
+    color: white;
+    border: 0px solid white;
+}
+
+QListWidget[objectName="listWidget"] {
+    border: 0px solid red;
+}
+
+QPushButton[objectName="threeDotBtn"] {
+    background-color: transparent;
+}
+
+
+QPushButton[objectName="playlistsButton"] {
+    color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+QPushButton[objectName="playlistsButton"]:pressed {
+    color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #999999;
+}
+
+QFrame[objectName="optionsDropDownFrame"] {
+    border: 0px solid white;
+}
+
+QPushButton[objectName="playlistsButtonAdd"] {
+    color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+QPushButton[objectName="playlistsButtonAdd"]:pressed {
+    color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #999999;
+}
+
+QPushButton[objectName="likedSongsButton"] {
+    color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+QPushButton[objectName="likedSongsButton"]:pressed {
+    color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #999999;
+}
+
+QPushButton[objectName="likedSongsButtonAdd"] {
+    color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+QPushButton[objectName="likedSongsButtonAdd"]:pressed {
+    color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #999999;
+}
+
+QTableWidget[objectName="playlistsTable"] {
+    color: white;
+    background-color: transparent;
+    border: 0px solid red;
+    gridline-color: transparent;
+}
+
+QTableWidget[objectName="playlistsTable"]::item {
+    padding-top: 20px;
+    border-bottom: 1px solid #444444;
+    color: white;
+}
+
+QComboBox {
+    color: white;
+    background-color: black;
+}
+
+QComboBox QAbstractItemView {
+    selection-background-color: transparent;
+    color: white;
+    selection-border: 0px solid white;
+}
+
+QScrollBar[objectName="playlistsTable"]::handle:vertical {
+    background-color: red;
+    width: 20px;
+}
+
+QScrollArea[objectName="backgroundPlaylists"] {
+    border: 0px solid red;
+}
+
+QSlider[objectName="timeSlider"]::groove:horizontal {
+    height: 10px;
+	background: qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #B1B1B1, stop:1 #c4c4c4);
+	margin: 10px;
+}
+
+QSlider[objectName="timeSlider"]::handle:horizontal {
+    background: white;
+	width: 16px;
+	height: 16px;
+	border-radius:11px;
+	border: 3px solid white;
+}
+
+QPushButton[objectName="vid_button"] {
+    border: 2px solid white;
+}

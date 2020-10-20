@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="image">
+    <file>Arrow.png</file>
+  </qresource>
+  <qresource prefix="actImage">
+    <file>Arrow.png</file>
+  </qresource>
+</RCC>
