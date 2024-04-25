@@ -6,3 +6,7 @@ This is an audio application for you to listen to your favorite songs and make u
 
 ### Since I made this, Youtube has changed the way their requests work, so this application is out of date.
 
+![ss](ss.png)
+
+![ss2](ss2.png)
+
