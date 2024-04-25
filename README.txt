@@ -1,1 +1,0 @@
-This is an audio application for you to listen to your favorite songs and make unlimited playlists. Make sure you've installed the requirements with 'pip install -r requirements.txt' and make sure you have vlc installed on your computer.
