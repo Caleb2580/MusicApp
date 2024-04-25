@@ -732,7 +732,7 @@ class MainWindow(QtWidgets.QMainWindow, Ui_MainWindow):
         # for valName in valueList:
         #     playListDict.update({valName: valueList[valName]})
 
-        # myfile = r'C:\Users\caleb\Desktop\AudioApp\playListDict.py'
+        # myfile = r'<filepath>'
         # with open(myfile, "w") as f:
         #     f.seek(0)
         #     f.write(f'playListDict = {playListDict}')
